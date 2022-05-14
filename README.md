@@ -1,6 +1,10 @@
 # Daily Coding Challenges
 
-A repository containing my daily code challenges.
+A repository containing my daily code challenges. 
+
+| Codewars |
+| --- |
+| ![Image](https://www.codewars.com/users/kldevs/badges/micro) |
 
 ## How It's Made:
 
