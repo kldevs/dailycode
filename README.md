@@ -8,7 +8,7 @@ A repository containing my daily code challenges.
 
 ## How It's Made:
 
-**Tech used:** Javascript
+**Tech used:** ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&labelColor=111111&logo=javascript "JavaScript")
 
 The site offers a variety of problems that you solve using code. There are some very fun and rewarding challenges that never to amaze.
 
