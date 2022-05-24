@@ -1,6 +1,6 @@
 # Daily Coding Challenges
 
-A repository containing my daily code challenges. 
+A repository containing my daily code challenges. Great way to stay sharp.
 
 | Codewars |
 | --- |
